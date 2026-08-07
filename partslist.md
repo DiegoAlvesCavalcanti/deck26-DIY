@@ -10,3 +10,4 @@
 **10** - GPIO Adapter- **GPIO 40t Cable Extension** - [12 Store link](https://shopee.com.br/Kit-Placa-Expans%C3%A3o-Gpio-40t-Cabo-Para-Raspberry-Pi-i.307799235.7778694589)  
 **11** - Voltmeter Display - **AC 110V/220V LED Display** - [10 Store Link](https://shopee.com.br/Display-Volt%C3%ADmetro-AC-Corrente-Alternada-110V-220V-Led-Digital-Medidor-de-Tens%C3%A3o-Digital-0.56--i.391233477.8466923679)  
 **12** - Voltmeter/Ammeter Display - **DC 0-100V 10A LED Display** - [11 Store Link](https://shopee.com.br/Volt%C3%ADmetro-e-Amper%C3%ADmetro-Digital-DC-0-100V-10A-LED-Azul-e-Vermelho-Medidor-de-Corrente-e-Tens%C3%A3o-Projetos-Eletr%C3%B4nicos-i.870763194.22619616483)  
+**13** - Memory Card - **Sandisk Ultra 32GB** - [13 Store Link]()  
