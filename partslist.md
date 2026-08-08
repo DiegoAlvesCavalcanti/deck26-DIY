@@ -11,3 +11,4 @@
 **11** - Voltmeter Display - **AC 110V/220V LED Display** - [10 Store Link](https://shopee.com.br/Display-Volt%C3%ADmetro-AC-Corrente-Alternada-110V-220V-Led-Digital-Medidor-de-Tens%C3%A3o-Digital-0.56--i.391233477.8466923679)  
 **12** - Voltmeter/Ammeter Display - **DC 0-100V 10A LED Display** - [11 Store Link](https://shopee.com.br/Volt%C3%ADmetro-e-Amper%C3%ADmetro-Digital-DC-0-100V-10A-LED-Azul-e-Vermelho-Medidor-de-Corrente-e-Tens%C3%A3o-Projetos-Eletr%C3%B4nicos-i.870763194.22619616483)  
 **13** - Memory Card - **Sandisk Ultra 32GB** - [13 Store Link](https://www.amazon.com.br/Cartao-Memoria-SanDisk-microSDHCTM-Adapter/dp/B08HVWJM8C)  
+**14** - Breadboard - **948 Tie Points Breadboard** - [14 Store Link](https://www.rapidonline.com/k-h-ad-01-advanced-solderless-breadboard-948-tie-points-34-0678)  
