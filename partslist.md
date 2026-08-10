@@ -13,3 +13,4 @@
 **13** - Memory Card - **Sandisk Ultra 32GB UHS-I C10** - [13 Store Link](https://www.amazon.com.br/Cartao-Memoria-SanDisk-microSDHCTM-Adapter/dp/B08HVWJM8C)  
 **14** - Breadboard - **948 Tie Points Breadboard** - [14 Store Link](https://www.rapidonline.com/k-h-ad-01-advanced-solderless-breadboard-948-tie-points-34-0678)  
 **15** - Power Cable Cord - **I-SHENG SP-021A IS-033C** - [15 Store Link](https://handeltheke.de/i-sheng-sp-021a-is-033c-power-cable-cord-1-3m)  
+**16** - 
