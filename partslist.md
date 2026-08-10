@@ -13,4 +13,4 @@
 **13** - Memory Card - **Sandisk Ultra 32GB UHS-I C10** - [13 Store Link](https://www.amazon.com.br/Cartao-Memoria-SanDisk-microSDHCTM-Adapter/dp/B08HVWJM8C)  
 **14** - Breadboard - **948 Tie Points Breadboard** - [14 Store Link](https://www.rapidonline.com/k-h-ad-01-advanced-solderless-breadboard-948-tie-points-34-0678)  
 **15** - Power Cable Cord - **I-SHENG SP-021A IS-033C** - [15 Store Link](https://handeltheke.de/i-sheng-sp-021a-is-033c-power-cable-cord-1-3m)  
-**16** - "8" Connector - **IEC 60320 C8** - []()  
+**16** - "8" Connector - **IEC 60320 C8** - [16 Store Link](https://www.mercadolivre.com.br/conector-iec-60320-c8-conexao-por-solda-ex1120/up/MLBU1093283765#polycard_client=recommendations_vip-v2p&reco_backend=ranker_retrieval_online_vpp_v2p&reco_model=coldstart_high_exposition&reco_client=vip-v2p&reco_item_pos=5&reco_backend_type=low_level&reco_id=ed382a30-d891-4fcc-b14a-f4a1778a214a&wid=MLB1819932344&sid=recos)  
