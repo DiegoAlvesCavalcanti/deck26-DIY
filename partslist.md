@@ -16,5 +16,5 @@
 **16** - "8" Connector - **IEC 60320 C8** - [16 Store Link](https://www.mercadolivre.com.br/conector-iec-60320-c8-conexao-por-solda-ex1120/up/MLBU1093283765#polycard_client=recommendations_vip-v2p&reco_backend=ranker_retrieval_online_vpp_v2p&reco_model=coldstart_high_exposition&reco_client=vip-v2p&reco_item_pos=5&reco_backend_type=low_level&reco_id=ed382a30-d891-4fcc-b14a-f4a1778a214a&wid=MLB1819932344&sid=recos) #  
 **17** - 2x Toggle Switch - **Xurui XT-22A** - []() #  
 **18** - Terminal - **Screw Terminal Strip** - []() #  
-**19** - Heatsink - **Aluminun Heatsink for Raspberry Pi** - []() #  
+**19** - Heatsink - **Aluminun Heatsink for Raspberry Pi** - [19 Store Link]() #  
 **20** - L Bracket - **Transfomer Mounting Bracket** - [20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
