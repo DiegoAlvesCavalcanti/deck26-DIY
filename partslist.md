@@ -17,4 +17,4 @@
 **17** - 2x Toggle Switch - **Xurui XT-22A** - []() #  
 **18** - Terminal - **Screw Terminal Strip** - []() #  
 **19** - Heatsink - **Aluminun Heatsink for Raspberry Pi** - []() #  
-**20** - L Bracket - **Transfomer Mounting Bracket** - []() #  
+**20** - L Bracket - **Transfomer Mounting Bracket** - [20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
