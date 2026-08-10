@@ -12,3 +12,4 @@
 **12** - Voltmeter/Ammeter Display - **DC 0-100V 10A LED Display** - [11 Store Link](https://shopee.com.br/Volt%C3%ADmetro-e-Amper%C3%ADmetro-Digital-DC-0-100V-10A-LED-Azul-e-Vermelho-Medidor-de-Corrente-e-Tens%C3%A3o-Projetos-Eletr%C3%B4nicos-i.870763194.22619616483)  
 **13** - Memory Card - **Sandisk Ultra 32GB UHS-I C10** - [13 Store Link](https://www.amazon.com.br/Cartao-Memoria-SanDisk-microSDHCTM-Adapter/dp/B08HVWJM8C)  
 **14** - Breadboard - **948 Tie Points Breadboard** - [14 Store Link](https://www.rapidonline.com/k-h-ad-01-advanced-solderless-breadboard-948-tie-points-34-0678)  
+**15** - Power Cable Cord - **I-SHENG SP-021A IS-033C** - [15 Store Link](https://handeltheke.de/i-sheng-sp-021a-is-033c-power-cable-cord-1-3m)  
