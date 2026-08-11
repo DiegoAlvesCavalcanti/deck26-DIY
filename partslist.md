@@ -1,3 +1,7 @@
+
+
+---
+
 **P01** - Keyboard - **RM-TG-02-B** - [01 Store Link](https://www.kabum.com.br/produto/506054/teclado-semi-mecanico-gamer-rise-mode-g2-mini-rgb-usb-c-layout-60-preto-rm-tg-02-b)  
 **P02** - SBC - **Raspberry Pi Zero 2 W** - [02 Store Link](https://www.robocore.net/placa-raspberry-pi/raspberry-pi-zero-2w?src=raspberrypi)  
 **P03** - Screen - **7 Inch HDMI Display** - [03 Store Link](https://pt.aliexpress.com/item/1005003539330174.html)  
