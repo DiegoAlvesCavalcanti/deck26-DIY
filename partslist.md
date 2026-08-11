@@ -18,4 +18,4 @@
 **P18** - Terminal - **Screw Terminal Strip** - []() #  
 **P19** - Heatsink - **Aluminun Heatsink for Raspberry Pi** - [19 Store Link]() #  
 **P20** - L Bracket - **Transfomer Mounting Bracket** - [20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
-**P21** - Power Suply - **** - []()  
+**P21** - Power Suply - **5.8A 5V 29W** - []()  
