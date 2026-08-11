@@ -20,6 +20,8 @@
 **P20** - L Bracket - **Transfomer Mounting Bracket** - [20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
 **P21** - Power Suply - **5.8A 5V 29W** - []()  
 
+---
+
 <img src="/images/p01.jpg" alt="p01" width="500px"></img>
 
 
