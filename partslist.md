@@ -24,4 +24,4 @@
 
 
 
-  ![p01](deck26-DIY/images/p01.png)  
+  ![p01](../images/p01.png)  
