@@ -69,6 +69,6 @@
 * **Hardware Interface:** USB 2.0
 * **Maximum Theoretical Throughput:** 480mbs
 * **Cable Lenght:** 25.5cm
-* **Ports: ** 4
+* **Ports:** 4
 
 ---
