@@ -75,7 +75,8 @@
 
 ### **P06: Ugreen 10396**
 <img src="/images/p06.jpg" alt="p06" width="500px"></img>
-* **Adaptation:** USB-A (Female) to Micro USB-B
+* **Connector 1:** USB-A (Female)
+* **Connector 2:** Micro USB-B (Male)
 * **USB Version:** USB 2.0
 * **Maximum Data Transfer Rate:** 480 Mbps
 * **Cable Lenght:** 12cm
