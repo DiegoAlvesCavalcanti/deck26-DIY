@@ -1,4 +1,5 @@
-<img src="/images/allparts.jpg" alt="p01" width="500px"></img>
+# Part List
+<img src="/images/allparts.jpg" alt="p01"></img>
 
 ---
 
