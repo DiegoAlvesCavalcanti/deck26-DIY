@@ -11,7 +11,7 @@
 **P06** - USB Adapter - **Ugreen 10396** - [06 Store Link](https://ugreendobrasil.com.br/produto/adaptador-micro-usb-macho-para-usb-a-femea-ugreen-15cm-preto/)  
 **P07** - USB Adapter - **USB-A to P2 Adapter** - [07 Store Link](https://www.amazon.com.br/Adaptador-Conversor-Microfone-Refor%C3%A7ado-Compat%C3%ADvel/dp/B0H2H8J16J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1AU67KJ7K43MQ)  
 **P08** - USB Adapter - **JL-U3101AP (USB-A to RJ45 Adapter)** - [08 Store Link](https://www.spiral.com.br/prod/adaptador-de-rede-rj45-para-3-0-1000mbps-jl-u3101ap-2plug-cx-1-un/162536)  
-**P09** - HDMI Adapter - **HDMI to Mini HDMI Adapter** - [09 Store Link](https://shopee.com.br/Cabo-Mini-HDMI-Macho-para-HDMI-F%C3%AAmea-V%C3%ADdeo-HDTV-Projetor-Notebook-i.895616643.22798834538)  
+**P09** - HDMI Adapter - **Standard HDMI to Mini HDMI Adapter** - [09 Store Link](https://shopee.com.br/Cabo-Mini-HDMI-Macho-para-HDMI-F%C3%AAmea-V%C3%ADdeo-HDTV-Projetor-Notebook-i.895616643.22798834538)  
 **P10** - GPIO Adapter- **GPIO 40t Cable Extension** - [10 Store link](https://shopee.com.br/Kit-Placa-Expans%C3%A3o-Gpio-40t-Cabo-Para-Raspberry-Pi-i.307799235.7778694589)  
 **P11** - Voltmeter Display - **AC 110V/220V LED Display** - [11 Store Link](https://shopee.com.br/Display-Volt%C3%ADmetro-AC-Corrente-Alternada-110V-220V-Led-Digital-Medidor-de-Tens%C3%A3o-Digital-0.56--i.391233477.8466923679)  
 **P12** - Voltmeter/Ammeter Display - **DC 0-100V 10A LED Display** - [12 Store Link](https://shopee.com.br/Volt%C3%ADmetro-e-Amper%C3%ADmetro-Digital-DC-0-100V-10A-LED-Azul-e-Vermelho-Medidor-de-Corrente-e-Tens%C3%A3o-Projetos-Eletr%C3%B4nicos-i.870763194.22619616483)  
@@ -83,8 +83,8 @@
 
 ---
 
-### **P07: USB-A to P2 Adapter**
-<img src="/images/p07.jpg" alt="p07" width="500px"></img>
+### **P09: Standard HDMI to Mini HDMI Adapter**
+<img src="/images/p09.jpg" alt="p09" width="500px"></img>
 * **Connector 1:** Standard HDMI (Female)
 * **Connector 2:** Mini HDMI (Male)
 * ** :** 
