@@ -72,3 +72,5 @@
 * **Ports:** 4
 
 ---
+
+### **P06: USB A to micro USB Adpter**
