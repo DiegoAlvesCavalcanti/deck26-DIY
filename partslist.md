@@ -66,8 +66,8 @@
 
 ### **P05: C3Tech HU-230BK**
 <img src="/images/p05.jpg" alt="p05" width="500px"></img>
-* **Hardware Interface:** USB 2.0
-* **Maximum Theoretical Throughput:** 480mbs
+* **USB Version:** USB 2.0
+* **Maximum Data Transfer Rate:** 480 Mbps
 * **Cable Lenght:** 25.5cm
 * **Ports:** 4
 
@@ -75,4 +75,7 @@
 
 ### **P06: Ugreen 10396**
 <img src="/images/p06.jpg" alt="p06" width="500px"></img>
-* ** :** 
+* **Adaptation:** USB-A (Female) to Micro USB-B
+* **USB Version:** USB 2.0
+* **Maximum Data Transfer Rate:** 480 Mbps
+* **Cable Lenght:** 12cm
