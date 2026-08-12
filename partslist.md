@@ -40,10 +40,10 @@
 
 ### **P02: Raspberry Pi Zero 2 W**
 <img src="/images/p02.jpg" alt="p02" width="500px"></img>
-* Dimensions: 65 x 30 mm
-* Processor: Broadcom BCM2710A1, quad-core 64-bit SoC (Arm Cortex-A53 @ 1GHz)
-* Memory: 512MB LPDDR2
-* Input Power: 5V DC 2.5A
-* Operation Temperature: -20°C to +70°C
+* **Dimensions:** 65 x 30 mm
+* **Processor:** Broadcom BCM2710A1, quad-core 64-bit SoC (Arm Cortex-A53 @ 1GHz)
+* **Memory:** 512MB LPDDR2
+* **Input Power:** 5V DC 2.5A
+* **Operation Temperature:** -20°C to +70°C
 
 ---
