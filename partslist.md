@@ -29,12 +29,12 @@
 
 ### **P01: RM-TG-02-B**
 <img src="/images/p01.jpg" alt="p01" width="500px"></img> 
-* Dimensions: 290 x 101 x 38 mm
-* Size: 60% - 61 keys
-* Type: Membrane Hybrid 
-* Operation Voltage: 5V ± 5V
-* Operating Current: ≤300mA
-* Cable Length: 1.5 m
+* **Dimensions:** 290 x 101 x 38 mm
+* **Size:** 60% - 61 keys
+* **Type:** Membrane Hybrid 
+* **Operation Voltage:** 5V ± 5V
+* **Operating Current:** ≤300mA
+* **Cable Length:** 1.5 m
 
 ---
 
