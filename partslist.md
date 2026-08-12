@@ -47,3 +47,9 @@
 * **Operation Temperature:** -20°C to +70°C
 
 ---
+
+### **P03: 7 Inch HDMI Display**
+<img src="/images/p03.jpg" alt="p03" width="500px"></img>
+* **Dimensions:** 164 x 123 x 9 mm
+* **HDMI Cable Lenth:** 16.8 cm
+* **USB Power Cable Lenth:** 44 cm
