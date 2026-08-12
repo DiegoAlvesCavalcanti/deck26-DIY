@@ -53,3 +53,13 @@
 * **Dimensions:** 164 x 123 x 9 mm
 * **HDMI Cable Lenth:** 16.8 cm
 * **USB Power Cable Lenth:** 44 cm
+
+---
+
+### **P04: RAW MDF Organizer Case**
+<img src="/images/p04.jpg" alt="p04" width="500px"></img>
+* **Length:** 33cm (External) / 31.2cm (Internal)
+* **Width:** 24cm (External) / 22.2cm (Internal)
+* **High:** 7.7cm (External) / 7cm (Internal)
+
+---
