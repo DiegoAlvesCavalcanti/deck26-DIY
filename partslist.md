@@ -34,7 +34,7 @@
 * **Type:** Membrane Hybrid 
 * **Operation Voltage:** 5V ± 5V
 * **Operating Current:** ≤300mA
-* **Cable Length:** 1.5 m
+* **Cable Length:** 1.5m
 
 ---
 
@@ -51,8 +51,8 @@
 ### **P03: 7 Inch HDMI Display**
 <img src="/images/p03.jpg" alt="p03" width="500px"></img>
 * **Dimensions:** 164 x 123 x 9 mm
-* **HDMI Cable Lenth:** 16.8 cm
-* **USB Power Cable Lenth:** 44 cm
+* **HDMI Cable Lenth:** 16.8cm
+* **USB Power Cable Lenth:** 44cm
 
 ---
 
@@ -61,5 +61,14 @@
 * **Length:** 33cm (External) / 31.2cm (Internal)
 * **Width:** 24cm (External) / 22.2cm (Internal)
 * **High:** 7.7cm (External) / 7cm (Internal)
+
+---
+
+### **P05: C3Tech HU-230BK**
+<img src="/images/p05.jpg" alt="p05" width="500px"></img>
+* **Hardware Interface:** USB 2.0
+* **Maximum Theoretical Throughput:** 480mbs
+* **Cable Lenght:** 25.5cm
+* **Ports: ** 4
 
 ---
