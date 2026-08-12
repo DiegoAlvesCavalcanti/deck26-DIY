@@ -8,7 +8,7 @@
 **P03** - Screen - **7 Inch HDMI Display** - [03 Store Link](https://pt.aliexpress.com/item/1005003539330174.html)  
 **P04** - Case - **Raw MDF Organizer Case** - [04 Store Link](https://shopee.com.br/PROMO%C3%87%C3%83O!-Maleta-Organizadora-Com-Fecho-e-Al%C3%A7a-Resistente-em-Mdf-Cru-i.1209756667.22598812921)  
 **P05** - USB HUB - **HU-230BK (4 Ports USB HUB)** - [05 Store Link](https://www.amazon.com.br/C3Tech-HU-230BK-Portas-saida-Plug/dp/B0D52NHH2J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1ZZFT5FULY4LN)  
-**P06** - USB Adapter - **Ugreen SKU: 4301** - [06 Store Link](https://ugreendobrasil.com.br/produto/adaptador-micro-usb-macho-para-usb-a-femea-ugreen-15cm-preto/)  
+**P06** - USB Adapter - **Ugreen 10396** - [06 Store Link](https://ugreendobrasil.com.br/produto/adaptador-micro-usb-macho-para-usb-a-femea-ugreen-15cm-preto/)  
 **P07** - USB Adapter - **USB-A to P2 Adapter** - [07 Store Link](https://www.amazon.com.br/Adaptador-Conversor-Microfone-Refor%C3%A7ado-Compat%C3%ADvel/dp/B0H2H8J16J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1AU67KJ7K43MQ)  
 **P08** - USB Adapter - **JL-U3101AP (USB-A to RJ45 Adapter)** - [08 Store Link](https://www.spiral.com.br/prod/adaptador-de-rede-rj45-para-3-0-1000mbps-jl-u3101ap-2plug-cx-1-un/162536)  
 **P09** - HDMI Adapter - **HDMI to Mini HDMI Adapter** - [09 Store Link](https://shopee.com.br/Cabo-Mini-HDMI-Macho-para-HDMI-F%C3%AAmea-V%C3%ADdeo-HDTV-Projetor-Notebook-i.895616643.22798834538)  
@@ -73,6 +73,6 @@
 
 ---
 
-### **P06: Ugreen SKU: 4301**
+### **P06: Ugreen 10396**
 <img src="/images/p06.jpg" alt="p06" width="500px"></img>
 * ** :** 
