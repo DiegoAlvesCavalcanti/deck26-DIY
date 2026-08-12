@@ -80,3 +80,14 @@
 * **USB Version:** USB 2.0
 * **Maximum Data Transfer Rate:** 480 Mbps
 * **Cable Lenght:** 12cm
+
+---
+
+### **P07: USB-A to P2 Adapter**
+<img src="/images/p07.jpg" alt="p07" width="500px"></img>
+* **Connector 1:** Standard HDMI (Female)
+* **Connector 2:** Mini HDMI (Male)
+* ** :** 
+
+
+
