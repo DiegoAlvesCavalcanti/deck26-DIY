@@ -113,3 +113,11 @@
 ### **[P10]: GPIO 40t Cable Extension**
 <img src="/images/p10.jpg" alt="p10" width="500px"></img>
 * **Number of Pins:** 40
+
+---
+
+### **[P11]: AC 110V/220V LED Display**
+<img src="/images/p11.jpg" alt="p11" width="500px"></img>
+* **Dimensions:** 48 x 29 x 20 mm
+* **Measurement Range:** 70V - 500V
+* **Power Consuption:** < 2W / < 20mA
