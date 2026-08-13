@@ -38,7 +38,7 @@
 
 ---
 
-### **P02: Raspberry Pi Zero 2 W**
+### **[P02]: Raspberry Pi Zero 2 W**
 <img src="/images/p02.jpg" alt="p02" width="500px"></img>
 * **Dimensions:** 65 x 30 mm
 * **Processor:** Broadcom BCM2710A1, quad-core 64-bit SoC (Arm Cortex-A53 @ 1GHz)
@@ -48,7 +48,7 @@
 
 ---
 
-### **P03: 7 Inch HDMI Display**
+### **[P03]: 7 Inch HDMI Display**
 <img src="/images/p03.jpg" alt="p03" width="500px"></img>
 * **Dimensions:** 164 x 123 x 9 mm
 * **HDMI Cable Lenth:** 16.8cm
@@ -56,7 +56,7 @@
 
 ---
 
-### **P04: RAW MDF Organizer Case**
+### **[P04]: RAW MDF Organizer Case**
 <img src="/images/p04.jpg" alt="p04" width="500px"></img>
 * **Length:** 33cm (External) / 31.2cm (Internal)
 * **Width:** 24cm (External) / 22.2cm (Internal)
@@ -64,7 +64,7 @@
 
 ---
 
-### **P05: C3Tech HU-230BK**
+### **[P05]: C3Tech HU-230BK**
 <img src="/images/p05.jpg" alt="p05" width="500px"></img>
 * **USB Version:** USB 2.0
 * **Maximum Data Transfer Rate:** 480 Mbps
@@ -73,7 +73,7 @@
 
 ---
 
-### **P06: Ugreen 10396**
+### **[P06]: Ugreen 10396**
 <img src="/images/p06.jpg" alt="p06" width="500px"></img>
 * **Connector 1:** USB-A (Female)
 * **Connector 2:** Micro USB-B (Male)
@@ -83,7 +83,7 @@
 
 ---
 
-### **P07: Hrebos AD-047 / HS-310**
+### **[P07]: Hrebos AD-047 / HS-310**
 <img src="/images/p07.jpg" alt="p07" width="500px"></img>
 * **Connector 1:** 3.5mm P2
 * **Connector 2:** USB-A
@@ -91,7 +91,7 @@
   
 ---
 
-### **P09: Standard HDMI to Mini HDMI Adapter**
+### **[P09]: Standard HDMI to Mini HDMI Adapter**
 <img src="/images/p09.jpg" alt="p09" width="500px"></img>
 * **Connector 1:** Standard HDMI (Female)
 * **Connector 2:** Mini HDMI (Male)
