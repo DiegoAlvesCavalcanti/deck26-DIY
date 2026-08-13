@@ -149,3 +149,10 @@
 
 ---
 
+### **[P15]: I-SHENG SP-021A IS-033C**
+<img src="/images/p15.jpg" alt="p15" width="500px"></img>
+* **Connector 1:** I-SHENG SP-031A
+* **Connector 2:** I-SHENG IS-033
+* **Connector 1 Max Current / Voltage:** 10A / 250V~
+* **Connector 2 Max Current / Voltage:** 2.5A / 250V~
+* **Cable Length:** 170cm
