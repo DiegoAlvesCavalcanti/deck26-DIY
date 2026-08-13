@@ -166,3 +166,8 @@
 
 ---
 
+### **[P17]: Xurui XT-22A**
+<img src="/images/p17.jpg" alt="p17" width="500px"></img>
+* **Dimensions:** 30 x 19 x 20 mm
+* **Switch Max Current / Voltage:** 15A/250V~
+* **Current Type:** AC
