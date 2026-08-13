@@ -171,3 +171,10 @@
 * **Dimensions:** 30 x 19 x 20 mm
 * **Switch Max Current / Voltage:** 15A/250V~
 * **Current Type:** AC
+
+---
+
+### **[P18]: Screw Terminal Strip**
+<img src="/images/p18.jpg" alt="p18" width="500px"></img>
+
+---
