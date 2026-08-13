@@ -110,3 +110,6 @@
 
 ---
 
+### **[P10]: GPIO 40t Cable Extension**
+<img src="/images/p10.jpg" alt="p10" width="500px"></img>
+* **Number of Pins:** 40
