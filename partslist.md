@@ -119,5 +119,15 @@
 ### **[P11]: AC 110V/220V LED Display**
 <img src="/images/p11.jpg" alt="p11" width="500px"></img>
 * **Dimensions:** 48 x 29 x 20 mm
-* **Measurement Range:** 70V - 500V
+* **Voltage Range:** 70V ~ 500V
 * **Power Consuption:** < 2W / < 20mA
+* **Current Type:** AC
+
+---
+
+### **[P12]: DC 0-100V 10A LED Display**
+<img src="/images/p12.jpg" alt="p12" width="500px"></img>
+* **Dimensions:** 48 x 28 x 22 mm
+* **Voltage Range:** 0.0V ~ 100V
+* **Current Range:** 0A ~ 10A
+* **Current Type:** DC
