@@ -131,3 +131,14 @@
 * **Voltage Range:** 0.0V ~ 100V
 * **Current Range:** 0A ~ 10A
 * **Current Type:** DC
+
+---
+
+### **[P13]: Sandisk Ultra 32GB UHS-I C10**
+<img src="/images/p13.jpg" alt="p13" width="500px"></img>
+* **SD Type:** SDHC 32GB
+* **Minimal Serial Data:** 10MB/s
+* **Video Speed Class:** V10
+* **UHS Speed Class:** 10MB/s
+
+---
