@@ -87,7 +87,8 @@
 <img src="/images/p09.jpg" alt="p09" width="500px"></img>
 * **Connector 1:** Standard HDMI (Female)
 * **Connector 2:** Mini HDMI (Male)
-* ** :** 
+* **HDMI Version:** HDMI 1.0 +
+* **Cable Lenght:** 23cm
 
 
 
