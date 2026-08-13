@@ -145,3 +145,7 @@
 
 ### **[P14]: 948 Tie Points Breadboard**
 <img src="/images/p14.jpg" alt="p14" width="500px"></img>
+* **Dimensions:** 117 x 81 x 8 mm
+
+---
+
