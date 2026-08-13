@@ -142,3 +142,6 @@
 * **UHS Speed Class:** 10MB/s
 
 ---
+
+### **[P14]: 948 Tie Points Breadboard**
+<img src="/images/p14.jpg" alt="p14" width="500px"></img>
