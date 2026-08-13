@@ -23,7 +23,7 @@
 **P18** - Terminal - **Screw Terminal Strip** - []() #  
 **P19** - Heatsink - **Aluminun Heatsink for Raspberry Pi** - [19 Store Link]() #  
 **P20** - L Bracket - **Transfomer Mounting Bracket** - [20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
-**P21** - Power Suply - **5.8A 5V 29W** - []()  
+**P21** - Power Suply - **5.8A 2 Ports Phone Charger** - []()  
 
 ---
 
@@ -178,7 +178,21 @@
 <img src="/images/p18.jpg" alt="p18" width="500px"></img>
 
 ---
+
 ### **[P19]: Aluminun Heatsink for Raspberry Pi**
 <img src="/images/p19.jpg" alt="p19" width="500px"></img>
 * **Dimensions:** 42 x 25 x 16 mm
+
 ---
+
+### **[P20]: Transfomer Mounting Bracket**
+<img src="/images/p20.jpg" alt="p20" width="500px"></img>
+* **Dimensions:** 125 x 25 x 15 mm
+
+---
+
+### **[P21]: 5.8A 2 Ports Phone Charger**
+<img src="/images/p21.jpg" alt="p21" width="500px"></img>
+* **Dimensions:** 57 x 50 x 26 mm
+* **Input:** AC 100-240V 50/60Hz
+* **Output:** DC 5A/5.8A
