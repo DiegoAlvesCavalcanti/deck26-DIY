@@ -156,3 +156,13 @@
 * **Connector 1 Max Current / Voltage:** 10A / 250V~
 * **Connector 2 Max Current / Voltage:** 2.5A / 250V~
 * **Cable Length:** 170cm
+
+---
+
+### **[P16]: IEC 60320 C8**
+<img src="/images/p16.jpg" alt="p16" width="500px"></img>
+* **Dimensions:** 24 x 17 x 13 mm
+* **Connector Max Current / Voltage:** 2.5A / 250V~
+
+---
+
