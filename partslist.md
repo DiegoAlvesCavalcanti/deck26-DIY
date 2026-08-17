@@ -201,3 +201,8 @@
 * **Dimensions:** 57 x 50 x 26 mm
 * **Input:** AC 100-240V 50/60Hz
 * **Output:** DC 5A/5.8A
+
+---
+
+### **[P21]: 5.8A 2 Ports Phone Charger**
+<img src="/images/p21.jpg" alt="p21" width="500px"></img>
