@@ -25,9 +25,9 @@
 **[P19]** - Heatsink - **Aluminun Heatsink for Raspberry Pi** - [19 Store Link]() #  
 **[P20]** - L Bracket - **Transfomer Mounting Bracket** - [20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
 **[P21]** - Power Suply - **5.8A 2 Ports Phone Charger** - []()  
-**[P22]** - Cables - **Flat traveling Cable** - []() #  
+**[P22]** - Cables - **Flat Traveling Cable** - []() #  
 **[P23]** - Wood Pieces - **** - []() #  
-**[P24]** - Acrylic Sheet - **** - []() #  
+**[P24]** - Acrylic Sheet - **3 mm Acrylic Sheet** - []() #  
 **[P25]** - GPIO Pins - **2x20 Male GPIO Pins** - [25 Store link](https://shopee.com.br/Kit-4-Barra-de-Pinos-Macho-1x40-2-54mm-i.452181508.22097104937) 
 
 ---
