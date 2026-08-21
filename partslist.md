@@ -4,31 +4,31 @@
 ---
 
 ## Buy Parts
-**P01** - Keyboard - **RM-TG-02-B** - [01 Store Link](https://www.kabum.com.br/produto/506054/teclado-semi-mecanico-gamer-rise-mode-g2-mini-rgb-usb-c-layout-60-preto-rm-tg-02-b)  
-**P02** - SBC - **Raspberry Pi Zero 2 W** - [02 Store Link](https://www.robocore.net/placa-raspberry-pi/raspberry-pi-zero-2w?src=raspberrypi)  
-**P03** - Screen - **7 Inch HDMI Display** - [03 Store Link](https://pt.aliexpress.com/item/1005003539330174.html)  
-**P04** - Case - **Raw MDF Organizer Case** - [04 Store Link](https://shopee.com.br/PROMO%C3%87%C3%83O!-Maleta-Organizadora-Com-Fecho-e-Al%C3%A7a-Resistente-em-Mdf-Cru-i.1209756667.22598812921)  
-**P05** - USB HUB - **HU-230BK** - [05 Store Link](https://www.amazon.com.br/C3Tech-HU-230BK-Portas-saida-Plug/dp/B0D52NHH2J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1ZZFT5FULY4LN)  
-**P06** - USB Adapter - **Ugreen 10396** - [06 Store Link](https://ugreendobrasil.com.br/produto/adaptador-micro-usb-macho-para-usb-a-femea-ugreen-15cm-preto/)  
-**P07** - USB Adapter - **Hrebos AD-047 / HS-310** - [07 Store Link](https://www.amazon.com.br/Adaptador-Conversor-Microfone-Refor%C3%A7ado-Compat%C3%ADvel/dp/B0H2H8J16J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1AU67KJ7K43MQ)  
-**P08** - USB Adapter - **2Plug JL-U3101AP** - [08 Store Link](https://www.spiral.com.br/prod/adaptador-de-rede-rj45-para-3-0-1000mbps-jl-u3101ap-2plug-cx-1-un/162536)  
-**P09** - HDMI Adapter - **Standard HDMI to Mini HDMI Adapter** - [09 Store Link](https://shopee.com.br/Cabo-Mini-HDMI-Macho-para-HDMI-F%C3%AAmea-V%C3%ADdeo-HDTV-Projetor-Notebook-i.895616643.22798834538)  
-**P10** - GPIO Adapter- **GPIO 40t Cable Extension** - [10 Store link](https://shopee.com.br/Kit-Placa-Expans%C3%A3o-Gpio-40t-Cabo-Para-Raspberry-Pi-i.307799235.7778694589)  
-**P11** - Voltmeter Display - **AC 110V/220V LED Display** - [11 Store Link](https://shopee.com.br/Display-Volt%C3%ADmetro-AC-Corrente-Alternada-110V-220V-Led-Digital-Medidor-de-Tens%C3%A3o-Digital-0.56--i.391233477.8466923679)  
-**P12** - Voltmeter/Ammeter Display - **DC 0-100V 10A LED Display** - [12 Store Link](https://shopee.com.br/Volt%C3%ADmetro-e-Amper%C3%ADmetro-Digital-DC-0-100V-10A-LED-Azul-e-Vermelho-Medidor-de-Corrente-e-Tens%C3%A3o-Projetos-Eletr%C3%B4nicos-i.870763194.22619616483)  
-**P13** - Memory Card - **Sandisk Ultra 32GB UHS-I C10** - [13 Store Link](https://www.amazon.com.br/Cartao-Memoria-SanDisk-microSDHCTM-Adapter/dp/B08HVWJM8C)  
-**P14** - Breadboard - **948 Tie Points Breadboard** - [14 Store Link](https://www.rapidonline.com/k-h-ad-01-advanced-solderless-breadboard-948-tie-points-34-0678) #  
-**P15** - Power Cable Cord - **I-SHENG SP-021A IS-033C** - [15 Store Link](https://handeltheke.de/i-sheng-sp-021a-is-033c-power-cable-cord-1-3m) #  
-**P16** - "8" Connector - **IEC 60320 C8** - [16 Store Link](https://www.mercadolivre.com.br/conector-iec-60320-c8-conexao-por-solda-ex1120/up/MLBU1093283765#polycard_client=recommendations_vip-v2p&reco_backend=ranker_retrieval_online_vpp_v2p&reco_model=coldstart_high_exposition&reco_client=vip-v2p&reco_item_pos=5&reco_backend_type=low_level&reco_id=ed382a30-d891-4fcc-b14a-f4a1778a214a&wid=MLB1819932344&sid=recos) #  
-**P17** - 2x Toggle Switch - **Xurui XT-22A** - []() #  
-**P18** - Terminal - **Screw Terminal Strip** - []() #  
-**P19** - Heatsink - **Aluminun Heatsink for Raspberry Pi** - [19 Store Link]() #  
-**P20** - L Bracket - **Transfomer Mounting Bracket** - [20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
-**P21** - Power Suply - **5.8A 2 Ports Phone Charger** - []()  
-**P22** - Cables - **Flat traveling Cable** - []() #  
-**P23** - Wood Pieces - **** - []() #  
-**P24** - Acrylic Sheet - **** - []() #  
-**P25** - GPIO Pins - **2x20 Male GPIO Pins** - [25 Store link](https://shopee.com.br/Kit-4-Barra-de-Pinos-Macho-1x40-2-54mm-i.452181508.22097104937) 
+**[P01]** - Keyboard - **RM-TG-02-B** - [01 Store Link](https://www.kabum.com.br/produto/506054/teclado-semi-mecanico-gamer-rise-mode-g2-mini-rgb-usb-c-layout-60-preto-rm-tg-02-b)  
+**[P02]** - SBC - **Raspberry Pi Zero 2 W** - [02 Store Link](https://www.robocore.net/placa-raspberry-pi/raspberry-pi-zero-2w?src=raspberrypi)  
+**[P03]** - Screen - **7 Inch HDMI Display** - [03 Store Link](https://pt.aliexpress.com/item/1005003539330174.html)  
+**[P04]** - Case - **Raw MDF Organizer Case** - [04 Store Link](https://shopee.com.br/PROMO%C3%87%C3%83O!-Maleta-Organizadora-Com-Fecho-e-Al%C3%A7a-Resistente-em-Mdf-Cru-i.1209756667.22598812921)  
+**[P05]** - USB HUB - **HU-230BK** - [05 Store Link](https://www.amazon.com.br/C3Tech-HU-230BK-Portas-saida-Plug/dp/B0D52NHH2J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1ZZFT5FULY4LN)  
+**[P06]** - USB Adapter - **Ugreen 10396** - [06 Store Link](https://ugreendobrasil.com.br/produto/adaptador-micro-usb-macho-para-usb-a-femea-ugreen-15cm-preto/)  
+**[P07]** - USB Adapter - **Hrebos AD-047 / HS-310** - [07 Store Link](https://www.amazon.com.br/Adaptador-Conversor-Microfone-Refor%C3%A7ado-Compat%C3%ADvel/dp/B0H2H8J16J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1AU67KJ7K43MQ)  
+**[P08]** - USB Adapter - **2Plug JL-U3101AP** - [08 Store Link](https://www.spiral.com.br/prod/adaptador-de-rede-rj45-para-3-0-1000mbps-jl-u3101ap-2plug-cx-1-un/162536)  
+**[P09]** - HDMI Adapter - **Standard HDMI to Mini HDMI Adapter** - [09 Store Link](https://shopee.com.br/Cabo-Mini-HDMI-Macho-para-HDMI-F%C3%AAmea-V%C3%ADdeo-HDTV-Projetor-Notebook-i.895616643.22798834538)  
+**[P10]** - GPIO Adapter- **GPIO 40t Cable Extension** - [10 Store link](https://shopee.com.br/Kit-Placa-Expans%C3%A3o-Gpio-40t-Cabo-Para-Raspberry-Pi-i.307799235.7778694589)  
+**[P11]** - Voltmeter Display - **AC 110V/220V LED Display** - [11 Store Link](https://shopee.com.br/Display-Volt%C3%ADmetro-AC-Corrente-Alternada-110V-220V-Led-Digital-Medidor-de-Tens%C3%A3o-Digital-0.56--i.391233477.8466923679)  
+**[P12]** - Voltmeter/Ammeter Display - **DC 0-100V 10A LED Display** - [12 Store Link](https://shopee.com.br/Volt%C3%ADmetro-e-Amper%C3%ADmetro-Digital-DC-0-100V-10A-LED-Azul-e-Vermelho-Medidor-de-Corrente-e-Tens%C3%A3o-Projetos-Eletr%C3%B4nicos-i.870763194.22619616483)  
+**[P13]** - Memory Card - **Sandisk Ultra 32GB UHS-I C10** - [13 Store Link](https://www.amazon.com.br/Cartao-Memoria-SanDisk-microSDHCTM-Adapter/dp/B08HVWJM8C)  
+**[P14]** - Breadboard - **948 Tie Points Breadboard** - [14 Store Link](https://www.rapidonline.com/k-h-ad-01-advanced-solderless-breadboard-948-tie-points-34-0678) #  
+**[P15]** - Power Cable Cord - **I-SHENG SP-021A IS-033C** - [15 Store Link](https://handeltheke.de/i-sheng-sp-021a-is-033c-power-cable-cord-1-3m) #  
+**[P16]** - "8" Connector - **IEC 60320 C8** - [16 Store Link](https://www.mercadolivre.com.br/conector-iec-60320-c8-conexao-por-solda-ex1120/up/MLBU1093283765#polycard_client=recommendations_vip-v2p&reco_backend=ranker_retrieval_online_vpp_v2p&reco_model=coldstart_high_exposition&reco_client=vip-v2p&reco_item_pos=5&reco_backend_type=low_level&reco_id=ed382a30-d891-4fcc-b14a-f4a1778a214a&wid=MLB1819932344&sid=recos) #  
+**[P17]** - 2x Toggle Switch - **Xurui XT-22A** - []() #  
+**[P18]** - Terminal - **Screw Terminal Strip** - []() #  
+**[P19]** - Heatsink - **Aluminun Heatsink for Raspberry Pi** - [19 Store Link]() #  
+**[P20]** - L Bracket - **Transfomer Mounting Bracket** - [20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
+**[P21]** - Power Suply - **5.8A 2 Ports Phone Charger** - []()  
+**[P22]** - Cables - **Flat traveling Cable** - []() #  
+**[P23]** - Wood Pieces - **** - []() #  
+**[P24]** - Acrylic Sheet - **** - []() #  
+**[P25]** - GPIO Pins - **2x20 Male GPIO Pins** - [25 Store link](https://shopee.com.br/Kit-4-Barra-de-Pinos-Macho-1x40-2-54mm-i.452181508.22097104937) 
 
 ---
 
