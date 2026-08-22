@@ -205,12 +205,12 @@
 
 ---
 
-### **[P22]: **
+### **[P22]:**
 <img src="/images/p22.jpg" alt="p22" width="500px"></img>
 
 ---
 
-### **[P23]: **
+### **[P23]:**
 <img src="/images/p23.jpg" alt="p23" width="500px"></img>
 
 ---
@@ -223,5 +223,5 @@
 
 ---
 
-### **[P25]: **
+### **[P25]:**
 <img src="/images/p25.jpg" alt="p25" width="500px"></img>
