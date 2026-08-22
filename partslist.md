@@ -43,7 +43,7 @@
 * **Operating Current:** ≤300mA  
 * **Cable Length:** 1.5m  
 
-  <a href="#lP"></a>
+  <a href="#lP">Back</a>
 
 ---
 
@@ -56,7 +56,7 @@
 * **Input Power:** 5V DC 2.5A
 * **Operation Temperature:** -20°C to +70°C
 
-  <a href="#lP"></a>
+  <a href="#lP">Back</a>
 
 ---
 
