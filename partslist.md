@@ -67,7 +67,7 @@
 * **Width:** 24cm (External) / 22.2cm (Internal)
 * **High:** 7.7cm (External) / 7cm (Internal)
   
-**OBS:** This case will be painted black
+**Note:** This case will be painted black
 ---
 
 ### **[P05]: C3Tech HU-230BK**
@@ -219,7 +219,7 @@
 <img src="/images/p24.jpg" alt="p24" width="500px"></img>
 * **Dimensions:** 90cm x 35.5cm x 3mm
   
-**OBS:** This sheet will be painted black
+**Note:** This sheet will be painted black
 
 ---
 
