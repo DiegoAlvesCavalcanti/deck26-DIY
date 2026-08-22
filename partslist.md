@@ -215,7 +215,7 @@
 ---
 
 ### **[P24]: **
-<img src="/images/p23.jpg" alt="p23" width="500px"></img>
+<img src="/images/p24.jpg" alt="p24" width="500px"></img>
 
 ---
 
