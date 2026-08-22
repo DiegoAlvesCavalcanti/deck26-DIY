@@ -32,8 +32,8 @@
 
 ---
 
-<item id="01">### **[P01]: RM-TG-02-B**</item>
-<img src="/images/p01.jpg" alt="p01" width="500px"></img> 
+### **[P01]: RM-TG-02-B**
+<img id="01"src="/images/p01.jpg" alt="p01" width="500px"></img> 
 * **Dimensions:** 290 x 101 x 38 mm
 * **Size:** 60% - 61 keys
 * **Type:** Membrane Hybrid 
