@@ -204,5 +204,20 @@
 
 ---
 
-### **[P21]: 5.8A 2 Ports Phone Charger**
-<img src="/images/p21.jpg" alt="p21" width="500px"></img>
+### **[P22]: **
+<img src="/images/p22.jpg" alt="p22" width="500px"></img>
+
+---
+
+### **[P23]: **
+<img src="/images/p23.jpg" alt="p23" width="500px"></img>
+
+---
+
+### **[P24]: **
+<img src="/images/p23.jpg" alt="p23" width="500px"></img>
+
+---
+
+### **[P25]: **
+<img src="/images/p25.jpg" alt="p25" width="500px"></img>
