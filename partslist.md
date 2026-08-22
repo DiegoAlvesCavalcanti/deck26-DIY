@@ -1,4 +1,4 @@
-# Parts List
+<h1 id="pL">Parts List</h1>
 <img src="/images/allparts.jpg" alt="p01"></img>
 
 ---
@@ -43,6 +43,8 @@
 * **Operating Current:** ≤300mA  
 * **Cable Length:** 1.5m  
 
+  <a href="#lP"></a>
+
 ---
 
 <h3 id="02">[P02]: Raspberry Pi Zero 2</h3>
@@ -53,6 +55,8 @@
 * **Memory:** 512MB LPDDR2
 * **Input Power:** 5V DC 2.5A
 * **Operation Temperature:** -20°C to +70°C
+
+  <a href="#lP"></a>
 
 ---
 
