@@ -219,7 +219,7 @@
 <img src="/images/p24.jpg" alt="p24" width="500px"></img>
 * **Dimensions:** 90cm x 35.5cm x 3mm
   
-**OBS:** This sheet will be painted black.
+**OBS:** This sheet will be painted black
 
 ---
 
