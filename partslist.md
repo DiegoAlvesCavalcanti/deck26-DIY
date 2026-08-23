@@ -4,31 +4,31 @@
 ---
 
 ## Buy Parts
-<a href="#01">[P01]</a> - Keyboard - **RM-TG-02-B** - [01 Store Link](https://www.kabum.com.br/produto/506054/teclado-semi-mecanico-gamer-rise-mode-g2-mini-rgb-usb-c-layout-60-preto-rm-tg-02-b)  
-<a href="#02">[P02]</a> - SBC - **Raspberry Pi Zero 2 W** - [02 Store Link](https://www.robocore.net/placa-raspberry-pi/raspberry-pi-zero-2w?src=raspberrypi)  
-<a href="#03">[P03]</a> - Screen - **7 Inch HDMI Display** - [03 Store Link](https://pt.aliexpress.com/item/1005003539330174.html)  
-<a href="#04">[P04]</a> - Case - **Raw MDF Organizer Case** - [04 Store Link](https://shopee.com.br/PROMO%C3%87%C3%83O!-Maleta-Organizadora-Com-Fecho-e-Al%C3%A7a-Resistente-em-Mdf-Cru-i.1209756667.22598812921)  
-<a href="#05">[P05]</a> - USB HUB - **HU-230BK** - [05 Store Link](https://www.amazon.com.br/C3Tech-HU-230BK-Portas-saida-Plug/dp/B0D52NHH2J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1ZZFT5FULY4LN)  
-<a href="#06">[P06]</a> - USB Adapter - **Ugreen 10396** - [06 Store Link](https://ugreendobrasil.com.br/produto/adaptador-micro-usb-macho-para-usb-a-femea-ugreen-15cm-preto/)  
-<a href="#07">[P07]</a> - USB Adapter - **Hrebos AD-047 / HS-310** - [07 Store Link](https://www.amazon.com.br/Adaptador-Conversor-Microfone-Refor%C3%A7ado-Compat%C3%ADvel/dp/B0H2H8J16J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1AU67KJ7K43MQ)  
-<a href="#08">[P08]</a> - USB Adapter - **2Plug JL-U3101AP** - [08 Store Link](https://www.spiral.com.br/prod/adaptador-de-rede-rj45-para-3-0-1000mbps-jl-u3101ap-2plug-cx-1-un/162536)  
-<a href="#09">[P09]</a> - HDMI Adapter - **Standard HDMI to Mini HDMI Adapter** - [09 Store Link](https://shopee.com.br/Cabo-Mini-HDMI-Macho-para-HDMI-F%C3%AAmea-V%C3%ADdeo-HDTV-Projetor-Notebook-i.895616643.22798834538)  
-<a href="#10">[P10]</a> - GPIO Adapter- **GPIO 40-Pin Extension Ribbon Cable** - [10 Store link](https://shopee.com.br/Kit-Placa-Expans%C3%A3o-Gpio-40t-Cabo-Para-Raspberry-Pi-i.307799235.7778694589)  
-<a href="#11">[P11]</a> - Voltmeter Display - **AC 110V/220V LED Display** - [11 Store Link](https://shopee.com.br/Display-Volt%C3%ADmetro-AC-Corrente-Alternada-110V-220V-Led-Digital-Medidor-de-Tens%C3%A3o-Digital-0.56--i.391233477.8466923679)  
-<a href="#12">[P12]</a> - Voltmeter/Ammeter Display - **DC 0-100V 10A LED Display** - [12 Store Link](https://shopee.com.br/Volt%C3%ADmetro-e-Amper%C3%ADmetro-Digital-DC-0-100V-10A-LED-Azul-e-Vermelho-Medidor-de-Corrente-e-Tens%C3%A3o-Projetos-Eletr%C3%B4nicos-i.870763194.22619616483)  
-<a href="#13">[P13]</a> - Memory Card - **Sandisk Ultra 32GB UHS-I C10** - [13 Store Link](https://www.amazon.com.br/Cartao-Memoria-SanDisk-microSDHCTM-Adapter/dp/B08HVWJM8C)  
-<a href="#14">[P14]</a> - Breadboard - **948 Tie Points Breadboard** - [14 Store Link](https://www.rapidonline.com/k-h-ad-01-advanced-solderless-breadboard-948-tie-points-34-0678) #  
-<a href="#15">[P15]</a> - Power Cable - **I-SHENG SP-021A IS-033C** - [15 Store Link](https://handeltheke.de/i-sheng-sp-021a-is-033c-power-cable-cord-1-3m) #  
-<a href="#16">[P16]</a> - Figure-8 Connector - **IEC 60320 C8** - [16 Store Link](https://www.mercadolivre.com.br/conector-iec-60320-c8-conexao-por-solda-ex1120/up/MLBU1093283765#polycard_client=recommendations_vip-v2p&reco_backend=ranker_retrieval_online_vpp_v2p&reco_model=coldstart_high_exposition&reco_client=vip-v2p&reco_item_pos=5&reco_backend_type=low_level&reco_id=ed382a30-d891-4fcc-b14a-f4a1778a214a&wid=MLB1819932344&sid=recos) #  
-<a href="#17">[P17]</a> - 2x Toggle Switch - **Xurui XT-22A** - []() #  
+<a href="#01">[P01]</a> - Keyboard - **RM-TG-02-B** - [P01 Store Link](https://www.kabum.com.br/produto/506054/teclado-semi-mecanico-gamer-rise-mode-g2-mini-rgb-usb-c-layout-60-preto-rm-tg-02-b)  
+<a href="#02">[P02]</a> - SBC - **Raspberry Pi Zero 2 W** - [P02 Store Link](https://www.robocore.net/placa-raspberry-pi/raspberry-pi-zero-2w?src=raspberrypi)  
+<a href="#03">[P03]</a> - Screen - **7 Inch HDMI Display** - [P03 Store Link](https://pt.aliexpress.com/item/1005003539330174.html)  
+<a href="#04">[P04]</a> - Case - **Raw MDF Organizer Case** - [P04 Store Link](https://shopee.com.br/PROMO%C3%87%C3%83O!-Maleta-Organizadora-Com-Fecho-e-Al%C3%A7a-Resistente-em-Mdf-Cru-i.1209756667.22598812921)  
+<a href="#05">[P05]</a> - USB HUB - **HU-230BK** - [P05 Store Link](https://www.amazon.com.br/C3Tech-HU-230BK-Portas-saida-Plug/dp/B0D52NHH2J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1ZZFT5FULY4LN)  
+<a href="#06">[P06]</a> - USB Adapter - **Ugreen 10396** - [P06 Store Link](https://ugreendobrasil.com.br/produto/adaptador-micro-usb-macho-para-usb-a-femea-ugreen-15cm-preto/)  
+<a href="#07">[P07]</a> - USB Adapter - **Hrebos AD-047 / HS-310** - [P07 Store Link](https://www.amazon.com.br/Adaptador-Conversor-Microfone-Refor%C3%A7ado-Compat%C3%ADvel/dp/B0H2H8J16J?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1AU67KJ7K43MQ)  
+<a href="#08">[P08]</a> - USB Adapter - **2Plug JL-U3101AP** - [P08 Store Link](https://www.spiral.com.br/prod/adaptador-de-rede-rj45-para-3-0-1000mbps-jl-u3101ap-2plug-cx-1-un/162536)  
+<a href="#09">[P09]</a> - HDMI Adapter - **Standard HDMI to Mini HDMI Adapter** - [P09 Store Link](https://shopee.com.br/Cabo-Mini-HDMI-Macho-para-HDMI-F%C3%AAmea-V%C3%ADdeo-HDTV-Projetor-Notebook-i.895616643.22798834538)  
+<a href="#10">[P10]</a> - GPIO Adapter- **GPIO 40-Pin Extension Ribbon Cable** - [P10 Store link](https://shopee.com.br/Kit-Placa-Expans%C3%A3o-Gpio-40t-Cabo-Para-Raspberry-Pi-i.307799235.7778694589)  
+<a href="#11">[P11]</a> - Voltmeter Display - **AC 110V/220V LED Display** - [P11 Store Link](https://shopee.com.br/Display-Volt%C3%ADmetro-AC-Corrente-Alternada-110V-220V-Led-Digital-Medidor-de-Tens%C3%A3o-Digital-0.56--i.391233477.8466923679)  
+<a href="#12">[P12]</a> - Voltmeter/Ammeter Display - **DC 0-100V 10A LED Display** - [P12 Store Link](https://shopee.com.br/Volt%C3%ADmetro-e-Amper%C3%ADmetro-Digital-DC-0-100V-10A-LED-Azul-e-Vermelho-Medidor-de-Corrente-e-Tens%C3%A3o-Projetos-Eletr%C3%B4nicos-i.870763194.22619616483)  
+<a href="#13">[P13]</a> - Memory Card - **Sandisk Ultra 32GB UHS-I C10** - [P13 Store Link](https://www.amazon.com.br/Cartao-Memoria-SanDisk-microSDHCTM-Adapter/dp/B08HVWJM8C)  
+<a href="#14">[P14]</a> - Breadboard - **948 Tie Points Breadboard** - [P14 Store Link](https://www.rapidonline.com/k-h-ad-01-advanced-solderless-breadboard-948-tie-points-34-0678) #  
+<a href="#15">[P15]</a> - Power Cable - **I-SHENG SP-021A IS-033C** - [P15 Store Link](https://handeltheke.de/i-sheng-sp-021a-is-033c-power-cable-cord-1-3m) #  
+<a href="#16">[P16]</a> - Figure-8 Connector - **IEC 60320 C8** - [P16 Store Link](https://www.mercadolivre.com.br/conector-iec-60320-c8-conexao-por-solda-ex1120/up/MLBU1093283765#polycard_client=recommendations_vip-v2p&reco_backend=ranker_retrieval_online_vpp_v2p&reco_model=coldstart_high_exposition&reco_client=vip-v2p&reco_item_pos=5&reco_backend_type=low_level&reco_id=ed382a30-d891-4fcc-b14a-f4a1778a214a&wid=MLB1819932344&sid=recos) #  
+<a href="#17">[P17]</a> - 2x Toggle Switch - **Xurui XT-22A** - [P17 Store Link](https://www.mercadolivre.com.br/chave-alavanca-ligadesliga-terminal-faston-1021a-1-polo-cor-prateado/p/MLB41592933?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic&pdp_filters=item_id%3AMLB3893133609&from=gshop) #  
 <a href="#18">[P18]</a> - Terminal - **Screw Terminal Strip** - []() #  
-<a href="#19">[P19]</a> - Heatsink - **Aluminum Heatsink for Raspberry Pi** - [19 Store Link]() #  
-<a href="#20">[P20]</a> - L Bracket - **Transformer Mounting Bracket** - [20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
+<a href="#19">[P19]</a> - Heatsink - **Aluminum Heatsink for Raspberry Pi** - [P19 Store Link]() #  
+<a href="#20">[P20]</a> - L Bracket - **Transformer Mounting Bracket** - [P20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
 <a href="#21">[P21]</a> - Power Supply - **5.8A 2 Ports Phone Charger** - []()  
 <a href="#22">[P22]</a> - Cables - **Flat Traveling Cable** - []() #  
 <a href="#23">[P23]</a> - Wood Pieces - **Pine Wood** - []() #  
 <a href="#24">[P24]</a> - Acrylic Sheet - **3 mm Thick Acrylic Sheet** - []() #  
-<a href="#25">[P25]</a> - GPIO Pins - **2x20 Male GPIO Pins** - [25 Store link](https://shopee.com.br/Kit-4-Barra-de-Pinos-Macho-1x40-2-54mm-i.452181508.22097104937) 
+<a href="#25">[P25]</a> - GPIO Pins - **2x20 Male GPIO Pins** - [P25 Store link](https://shopee.com.br/Kit-4-Barra-de-Pinos-Macho-1x40-2-54mm-i.452181508.22097104937) 
 
 ---
 
