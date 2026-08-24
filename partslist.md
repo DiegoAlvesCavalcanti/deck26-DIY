@@ -4,9 +4,9 @@
 ---
 
 ## Buy Parts
-#### Notes:
+### Notes:
 * Items marked with "#" are reused/repurposed components and were not purchased specifically for this build.
-* Store links may not point to the exact original listing; in such cases, links redirect to a functionally equivalent product.
+* Store links may not point to the exact original listing; in such cases, links redirect to a functionally equivalent product.  
 <a href="#01">[P01]</a> - Keyboard - **RM-TG-02-B** - [P01 Store Link](https://www.kabum.com.br/produto/506054/teclado-semi-mecanico-gamer-rise-mode-g2-mini-rgb-usb-c-layout-60-preto-rm-tg-02-b)  
 <a href="#02">[P02]</a> - SBC - **Raspberry Pi Zero 2 W** - [P02 Store Link](https://www.robocore.net/placa-raspberry-pi/raspberry-pi-zero-2w?src=raspberrypi)  
 <a href="#03">[P03]</a> - Screen - **7 Inch HDMI Display** - [P03 Store Link](https://pt.aliexpress.com/item/1005003539330174.html)  
