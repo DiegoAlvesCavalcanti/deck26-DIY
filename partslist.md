@@ -304,9 +304,11 @@
 <img src="/images/p25.jpg" alt="p25" width="500px"></img>
 
 * **Dimensions:** 11 x 110 mm
-* **Spacing:** 2.54mm
-* **Number of Pins:** 40
-* **Number of Rows:** 1
+* **Pitch:** 2.54 mm (0.1")
+* **Pin Count:** 40
+* **Rows:** Single Row (1x40)
 * **Type:** Male
+* **Pin Orientation:** Straight (180°)
+* **Mounting Type:** Through-Hole (THT)
 
 <a href="#pL">Back</a>
