@@ -303,4 +303,10 @@
 <h3 id="25">[P25]:</h3>
 <img src="/images/p25.jpg" alt="p25" width="500px"></img>
 
+* **Dimensions:** 11 x 110 mm
+* **Spacing:** 2.54mm
+* **Number of Pins:** 40
+* **Number of Rows:** 1
+* **Type:** Male
+
 <a href="#pL">Back</a>
