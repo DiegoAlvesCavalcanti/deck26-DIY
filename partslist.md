@@ -34,7 +34,7 @@
 <a href="#22">[P22]</a> - Cables - **Flat Traveling Cable** - [P22 Store Link]() #  
 <a href="#23">[P23]</a> - Wood Pieces - **Pine Wood** - [P23 Store Link]() #  
 <a href="#24">[P24]</a> - Acrylic Sheet - **3 mm Thick Acrylic Sheet** - [P24 Store Link]() #  
-<a href="#25">[P25]</a> - GPIO Pins - **2x20 Male GPIO Pins** - [P25 Store link](https://shopee.com.br/Kit-4-Barra-de-Pinos-Macho-1x40-2-54mm-i.452181508.22097104937) 
+<a href="#25">[P25]</a> - GPIO Pins - **2x20 GPIO Pin Header Strip** - [P25 Store link](https://shopee.com.br/Kit-4-Barra-de-Pinos-Macho-1x40-2-54mm-i.452181508.22097104937) 
 
 ---
 
@@ -300,7 +300,7 @@
 
 ---
 
-<h3 id="25">[P25]:</h3>
+<h3 id="25">[P25]: Pin Header Strip</h3>
 <img src="/images/p25.jpg" alt="p25" width="500px"></img>
 
 * **Dimensions:** 11 x 110 mm
