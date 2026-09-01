@@ -292,7 +292,9 @@
 <h3 id="24">[P24]: Acrylic Sheet</h3>
 <img src="/images/p24.jpg" alt="p24" width="500px"></img>
 
-* **Dimensions:** 90cm x 35.5cm x 3mm
+* **Dimensions:** 90 x 35.5 cm
+* **Thikness:** 3 mm
+* **Color:** White (Opaque)
   
 **Note:** This sheet will be painted black
 
