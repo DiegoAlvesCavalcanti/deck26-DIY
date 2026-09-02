@@ -33,7 +33,7 @@
 <a href="#21">[P21]</a> - Power Supply - **5.8A 2 Ports Phone Charger** [P21 Store Link]()  
 <a href="#22">[P22]</a> - Cables - **Flat Traveling Cable** - [P22 Store Link]() #  
 <a href="#23">[P23]</a> - Wood Pieces - **Pine Wood** - [P23 Store Link]() #  
-<a href="#24">[P24]</a> - Acrylic Sheet - **3 mm Thick Acrylic Sheet** - [P24 Store Link]() #  
+<a href="#24">[P24]</a> - Polycarbonate Sheet - **3 mm Thick Polycarbonate Sheet** - [P24 Store Link]() #  
 <a href="#25">[P25]</a> - GPIO Pins - **2x20 GPIO Pin Header Strip** - [P25 Store link](https://shopee.com.br/Kit-4-Barra-de-Pinos-Macho-1x40-2-54mm-i.452181508.22097104937) 
 
 ---
@@ -289,11 +289,12 @@
 
 ---
 
-<h3 id="24">[P24]: Acrylic Sheet</h3>
+<h3 id="24">[P24]: Polycarbonate Sheet</h3>
 <img src="/images/p24.jpg" alt="p24" width="500px"></img>
 
 * **Dimensions:** 90 x 35.5 cm
 * **Thikness:** 3 mm
+* **Type:** Solid
 * **Color:** White (Opaque)
   
 **Note:** This sheet will be painted black
