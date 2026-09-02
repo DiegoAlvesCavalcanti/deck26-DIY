@@ -282,7 +282,7 @@
 
 ---
 
-<h3 id="23">[P23]:</h3>
+<h3 id="23">[P23]: Pine Wood Pieces</h3>
 <img src="/images/p23.jpg" alt="p23" width="500px"></img>
 
 <a href="#pL">Back</a>
