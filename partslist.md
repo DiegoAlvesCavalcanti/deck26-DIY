@@ -275,7 +275,7 @@
 
 ---
 
-<h3 id="22">[P22]:</h3>
+<h3 id="22">[P22]: Flat Traveling Cable</h3>
 <img src="/images/p22.jpg" alt="p22" width="500px"></img>
 
 <a href="#pL">Back</a>
