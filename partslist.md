@@ -1,9 +1,9 @@
-<h1 id="pL">Parts List</h1>
+# Parts List
 <img src="/images/allparts.jpg" alt="p01"></img>
 
 ---
 
-## Buy Parts
+<h2 id="pL">Buy Parts</h2>
 ### Notes:
 * Items marked with "#" are reused/repurposed components and were not purchased specifically for this build.
 * Store links may not point to the exact original listing; in such cases, links redirect to a functionally equivalent product.
