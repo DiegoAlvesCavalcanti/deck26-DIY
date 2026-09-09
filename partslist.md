@@ -270,7 +270,8 @@
 
 * **Dimensions:** 57 x 50 x 26 mm
 * **Input:** AC 100-240V 50/60Hz
-* **Output:** DC 5A/5.8A
+* **Total Output Current:** 5.8A (Max combined)
+* **Output Current (Single Port):** Max 3.0A
 
 <a href="#pL">Back</a>
 
