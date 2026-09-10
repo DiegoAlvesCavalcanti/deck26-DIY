@@ -30,7 +30,7 @@
 <a href="#17">[P17]</a> - 2x Toggle Switch - **Xurui XT-22A** - [P17 Store Link](https://www.mercadolivre.com.br/chave-alavanca-ligadesliga-terminal-faston-1021a-1-polo-cor-prateado/p/MLB41592933?matt_tool=18956390&utm_source=google_shopping&utm_medium=organic&pdp_filters=item_id%3AMLB3893133609&from=gshop) #  
 <a href="#18">[P18]</a> - Terminal - **Screw Terminal Strip** - [P18 Store Link](https://www.mercadolivre.com.br/barra-conector-borne-4mm-preto-12-vias-fio-eletrico-450v-lukma/p/MLB29521930#polycard_client=search-desktop&be_origin=backend&overlay_label=not_apply&search_layout=grid&position=52&type=product&tracking_id=f0cbf4a2-5f8c-407c-8eba-b5636984ded6&wid=MLB3570182109&sid=search) #  
 <a href="#19">[P19]</a> - Heatsink - **Aluminum Heatsink for Raspberry Pi** - [P19 Store Link]() #  
-<a href="#20">[P20]</a> - L Bracket - **Transformer Mounting Bracket** - [P20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
+<a href="#20">[P20]</a> - L Bracket - **Transformer Mounting Angle Bracket** - [P20 Store Link](https://www.amazon.com.br/Aexit-Abra%C3%A7adeiras-Transformador-Controle-Suportes/dp/B07MS1P7D8) #  
 <a href="#21">[P21]</a> - Power Supply - **Dual USB-A 5.8A AC Adapter with Cable** [P21 Store Link]()  
 <a href="#22">[P22]</a> - Cables - **Flat Traveling Cable** - [P22 Store Link]() #  
 <a href="#23">[P23]</a> - Wood Pieces - **Pine Wood** - [P23 Store Link]() #  
@@ -256,10 +256,11 @@
 
 ---
 
-<h3 id="20">[P20]: Transformer Mounting Bracket</h3>
+<h3 id="20">[P20]: Transformer Mounting Angle Bracket</h3>
 <img src="/images/p20.jpg" alt="p20" width="500px"></img>
 
 * **Dimensions:** 125 x 25 x 15 mm
+* **Material Thikness:** ~1mm 
 
 <a href="#pL">Back</a>
 
