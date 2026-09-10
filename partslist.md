@@ -269,10 +269,10 @@
 <img src="/images/p21.jpg" alt="p21" width="500px"></img>
 
 * **Dimensions:** 57 x 50 x 26 mm
-* **Input:** AC 100-240V, 50/60Hz (Universal Input)
-* **Output Voltage:** 5V DC (Standard USB)
-* **Total Output Current:** 5.8A (Max combined)
-* **Output Current (Single Port):** Max 3.0A
+* **Input:** AC 100-240V, 50/60Hz
+* **Output Voltage:** 5V DC
+* **Total Output Current:** 5.8A
+* **Output Current (Single Port):** Max 2.9A
 
 <a href="#pL">Back</a>
 
