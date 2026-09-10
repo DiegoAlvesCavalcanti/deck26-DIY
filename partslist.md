@@ -259,8 +259,10 @@
 <h3 id="20">[P20]: Transformer Mounting Angle Bracket</h3>
 <img src="/images/p20.jpg" alt="p20" width="500px"></img>
 
+* **Material:** Steel
 * **Dimensions:** 125 x 25 x 15 mm
-* **Material Thikness:** ~1mm 
+* **Material Thikness:** ~1mm
+
 
 <a href="#pL">Back</a>
 
